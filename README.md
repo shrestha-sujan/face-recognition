@@ -1,0 +1,2 @@
+# face-recognition
+Pythonでface_recognitionというライブラリを使用してかを認識して見ました。
